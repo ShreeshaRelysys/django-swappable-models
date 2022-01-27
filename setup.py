@@ -19,7 +19,7 @@ setup(
     use_scm_version=True,
     author='S. Andrew Sheppard',
     author_email='andrew@wq.io',
-    url='https://github.com/openwisp/django-swappable-models',
+    url='https://github.com/ShreeshaRelysys/django-swappable-models',
     license='MIT',
     packages=['swapper'],
     description=LONG_DESCRIPTION.strip(),
